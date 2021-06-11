@@ -1,0 +1,37 @@
+body {
+    background-image: url(./pictures/pattern.jpg);
+}
+
+.header {
+    opacity: 100%;
+    padding: 0.15cm;
+
+}
+.header h1 {
+    color: rgb(0, 0, 124);
+    font-size: 40px;
+    text-align: center;
+}
+h2 {
+    background-color: rgb(94, 212, 173);
+}
+.header p {
+    font-size: 18px;
+    text-align: center;
+}
+
+div {
+    background-color: whitesmoke;   
+    padding: 0.10cm;
+    opacity: 90%;
+}
+
+.blue {
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 0.12cm;
+}
